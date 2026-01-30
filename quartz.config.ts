@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://panikedpineapple.github.io/Last-Light/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
